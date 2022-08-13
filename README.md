@@ -2,7 +2,7 @@
 
 [原博地址](https://blog.home-chopin.xyz/2022/08/13/chatbot.html)
 
-##基于Python的中文聊天bot
+## 基于Python的中文聊天bot
 
 #### 简介
 
