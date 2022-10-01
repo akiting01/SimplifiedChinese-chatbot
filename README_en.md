@@ -6,7 +6,7 @@
 
 #### Introduce
 
-A caht is uesd by python but only _Chinese_, which using same API on internet, which is a open source and you can get this code on →[SimplifiedChinese-chatbot](https://github.com/xiao-chopin/SimplifiedChinese-chatbot), welcome get me a star, thank!
+A chat is uesd by python but only _Chinese_, which using same API on internet, which is a open source and you can get this code on →[SimplifiedChinese-chatbot](https://github.com/xiao-chopin/SimplifiedChinese-chatbot), welcome get me a star, thank!
 
 #### Project demo
 
